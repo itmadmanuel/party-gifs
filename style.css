@@ -1,0 +1,19 @@
+header {
+    width: 100%;
+    display: block;
+    float: left;
+}
+header > img {
+    width: 100%;
+    height: 400px;
+    display: block;
+}
+.left {
+    float: left;
+}
+.mid {
+    float: left;
+}
+.right {
+    float: left;
+}
